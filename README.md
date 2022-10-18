@@ -23,7 +23,8 @@ Created with [Nest](https://github.com/nestjs/nest) framework TypeScript.
 ## Installation
 
 ```bash
-$ npm install or yarn
+$ npm install 
+$ yarn
 ```
 
 ## Running the app
